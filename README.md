@@ -1,2 +1,2 @@
 # Responsive-Browser
-A Safari toolbar that helps you designing and testing responsive websites and apps.
+A Safari extension that add toolbar to helps you designing and testing responsive websites and apps.
