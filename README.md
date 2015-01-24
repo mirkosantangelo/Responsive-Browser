@@ -33,7 +33,7 @@ Click on the **button with the Ruler Icon** on top your window Safari toolbar to
 ![Banner](https://dl.dropboxusercontent.com/u/6625493/responsiveBrowser/open.gif)
 
 ### Use Apple Devices Presets
-Click on **button with the Graph Icon** and select one of the devices that appeart. Click on a preset once for **Portrait mode**, twice for **Landscape Mode**
+Click on **button with the Graph Icon** and select one of the devices that appear. Click on a preset once for **Portrait mode**, twice for **Landscape Mode**
 
 ![Banner](https://dl.dropboxusercontent.com/u/6625493/responsiveBrowser/open-apple.gif)
 
