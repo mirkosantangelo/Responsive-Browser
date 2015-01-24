@@ -1,11 +1,12 @@
 # Responsive Browser
-A Safari extension that add a toolbar to help you designing and testing responsive websites and apps. 
+A Safari extension bar to help you design and code responsive websites and apps. **Safari 8+ support**.
 
 ![Banner](https://dl.dropboxusercontent.com/u/6625493/responsiveBrowser/icon-64.png)
 
 ##Features
-- Show in real-time the width and height Safari window values
-- Resize Safari window by typing custom width and height values or using the keyboard
+- Shows in **real time values** of the width and height of the Safari window;
+- Resizes precisely the Safari window by entering a value of width, height or both, usign the dedicated text fields or the keyboard;
+- Simulates the size of the following **Apple devices** through a responsive popup-panel. In either **Portrait and Landscape** modes:
   - iPhone 4
   - iPhone 5
   - iPhone 6
@@ -54,6 +55,8 @@ Tip: Leave a field blank to resize only the filled one. (E.g. To resize only the
 
 #### Manage Custom Presets
 
+**Important Note** Custom presest are stored on browser cache, if you empty the cache you'll lost every custom preset.
+
 - To add a New Custom Preset Add fill the width and height fileds with the desired values, then click on the dropdown menu and select Add New to add a new preset to your collection
 
 ![Banner](https://dl.dropboxusercontent.com/u/6625493/responsiveBrowser/savepreset.gif)
@@ -62,4 +65,7 @@ Tip: Leave a field blank to resize only the filled one. (E.g. To resize only the
 
 - To remove all Custom Preset select Remove all from the dropdown menu
 
-**Important Note** Custom presest are stored on browser cache, if you empty the cache you'll lost every custom preset.
+![Banner](https://dl.dropboxusercontent.com/u/6625493/responsiveBrowser/removeall.gif)
+
+
+
