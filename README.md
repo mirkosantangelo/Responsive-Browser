@@ -23,17 +23,17 @@ A Safari extension bar to help you design and code responsive websites and apps.
 
 
 ### Installation
-[Download the ResponsiveBrowser.safariextz](http://github.com/mirkosantangelo/Responsive-Browser/ResponsiveBrowser.safariextz) file and double click on it. 
+[Download the ResponsiveBrowser.safariextz](http://github.com/mirkosantangelo/Responsive-Browser/ResponsiveBrowser.safariextz) file, double click on it to install the extension on your Mac. 
 
 ## How To
 
 ### Activate Responsive Browser
-Click on the Ruler button on top of Safari toolbar. If you do not see the button, right-click the toolbar and select Customize Toolbar, then drag and drop the button inside the toolbar.
+Click on the **button with the Ruler Icon** on top your window Safari toolbar to show the extension bar. If you do not see the button, right-click on the Safari toolbar and select Customize Toolbar from the menu, then drag and drop the Responsive Browser button inside your toolbar.
 
 ![Banner](https://dl.dropboxusercontent.com/u/6625493/responsiveBrowser/open.gif)
 
-### Apple Devices Presets
-Click on Graph Icon and select one device preset from the panel. Click once for Portrait mode, twice for Landscape
+### Use Apple Devices Presets
+Click on **button with the Graph Icon** and select one of the devices that appeart. Click on a preset once for **Portrait mode**, twice for **Landscape Mode**
 
 ![Banner](https://dl.dropboxusercontent.com/u/6625493/responsiveBrowser/open-apple.gif)
 
