@@ -18,28 +18,28 @@ A Safari extension bar to help you design and code responsive websites and apps.
   - Macbook Pro 15.4"
   - iMac 21.5"
   - iMac 27.5"
-- Create, manage and save your custom viewport size presets
-- Safari Extensions Live Updates supported 
+- Create, organize and save your **custom size presets** through a dropdown menu, and use the, whenever you want
+- Responsive Browser extension **supports Safari Live Updates**, so after the installation you will be notified each time a new extension update is available.
 
 
 ### Installation
 [Download the ResponsiveBrowser.safariextz](http://github.com/mirkosantangelo/Responsive-Browser/ResponsiveBrowser.safariextz) file and double click on it. 
 
-### How To
+## How To
 
-#### Activate Responsive Browser
+### Activate Responsive Browser
 Click on the Ruler button on top of Safari toolbar. If you do not see the button, right-click the toolbar and select Customize Toolbar, then drag and drop the button inside the toolbar.
 
 ![Banner](https://dl.dropboxusercontent.com/u/6625493/responsiveBrowser/open.gif)
 
-#### Apple Devices Presets
+### Apple Devices Presets
 Click on Graph Icon and select one device preset from the panel. Click once for Portrait mode, twice for Landscape
 
 ![Banner](https://dl.dropboxusercontent.com/u/6625493/responsiveBrowser/open-apple.gif)
 
 ![Banner](https://dl.dropboxusercontent.com/u/6625493/responsiveBrowser/devices.gif)
 
-#### Custom Width and Height Values
+### Custom Width and Height Values
 - SHIFT + Arrow Up = Increment by 10
 - SHIFT + Arrow Down = Decrement by 10
 - Arrow Up = Increment by 1
@@ -53,7 +53,7 @@ Tip: Leave a field blank to resize only the filled one. (E.g. To resize only the
 
 ![Banner](https://dl.dropboxusercontent.com/u/6625493/responsiveBrowser/custom-size.gif)
 
-#### Manage Custom Presets
+### Manage Custom Presets
 
 **Important Note** Custom presest are stored on browser cache, if you empty the cache you'll lost every custom preset.
 
