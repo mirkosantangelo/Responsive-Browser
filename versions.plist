@@ -6,7 +6,7 @@
    <array>
      <dict>
        <key>CFBundleIdentifier</key>
-       <string>com.mirkosantangelo.safari.responsivebrowser</string>
+       <string>com.mirkosantangelo.responsivebrowser</string>
        <key>Developer Identifier</key>
        <string>V3P3GWNRDN</string>
        <key>CFBundleVersion</key>
