@@ -3,6 +3,9 @@ A Safari extension bar to help you design and code responsive websites and apps.
 
 ![Banner](https://dl.dropboxusercontent.com/u/6625493/responsiveBrowser/icon-64.png)
 
+[![Banner](https://dl.dropboxusercontent.com/u/6625493/paypal-donate.png)]
+(https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=CBDVTAKFKKJ48&lc=US&item_name=Responsive%20Browser&item_number=rb&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted)
+
 ##Features
 - Shows in **real time values** of the width and height of the Safari window;
 - Resizes precisely the Safari window by entering a value of width, height or both, usign the dedicated text fields or the keyboard;
@@ -61,11 +64,17 @@ Click on the **button with the Graph Icon** and select one of the devices that a
 
 ![Banner](https://dl.dropboxusercontent.com/u/6625493/responsiveBrowser/savepreset.gif)
 
-- To remove a specified Preset first select it from the dropdown menu, then click again on the dropdown menu and select Remove
+- To **Remove a Custom Preset** select it from the dropdown menu, then click again on the dropdown menu and select Remove
 
-- To remove all Custom Preset select Remove all from the dropdown menu
+- To **Remove All Custom Preset** select Remove all from the dropdown menu
 
 ![Banner](https://dl.dropboxusercontent.com/u/6625493/responsiveBrowser/removeall.gif)
 
 
+## Contact
+Follow me on [Dribbble](https://dribbble.com/MirkoSantangelo)
 
+Get in Touch via [Email](santangelo.mirko@gmail.com)
+
+## Contributors
+[![Banner](https://dl.dropboxusercontent.com/u/6625493/paypal-donate.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=CBDVTAKFKKJ48&lc=US&item_name=Responsive%20Browser&item_number=rb&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted)
