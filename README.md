@@ -28,36 +28,36 @@ A Safari extension bar to help you design and code responsive websites and apps.
 ## How To
 
 ### Activate Responsive Browser
-Click on the **button with the Ruler Icon** on top your window Safari toolbar to show the extension bar. If you do not see the button, right-click on the Safari toolbar and select Customize Toolbar from the menu, then drag and drop the Responsive Browser button inside your toolbar.
+Click on the **button with the Ruler Icon** on top of your window Safari toolbar to show the extension bar. If you do not see the button, right-click on the Safari toolbar and select Customize Toolbar from the menu, then drag and drop the Responsive Browser button inside the toolbar.
 
 ![Banner](https://dl.dropboxusercontent.com/u/6625493/responsiveBrowser/open.gif)
 
 ### Use Apple Devices Presets
-Click on **button with the Graph Icon** and select one of the devices that appear. Click on a preset once for **Portrait mode**, twice for **Landscape Mode**
+Click on the **button with the Graph Icon** and select one of the devices that appear. Click on a preset once for **Portrait mode**, twice for **Landscape Mode**
 
 ![Banner](https://dl.dropboxusercontent.com/u/6625493/responsiveBrowser/open-apple.gif)
 
 ![Banner](https://dl.dropboxusercontent.com/u/6625493/responsiveBrowser/devices.gif)
 
-### Custom Width and Height Values
-- SHIFT + Arrow Up = Increment by 10
-- SHIFT + Arrow Down = Decrement by 10
-- Arrow Up = Increment by 1
-- Arrow Down = Decrement by 1
+### Set Custom Width and Height Window Properties
+- `SHIFT + ↑` = Increment by 10
+- `SHIFT + ↓` = Decrement by 10
+- `↑` = Increment by 1
+- `↓` = Decrement by 1
 
-Press Enter on the keyboard to resize Safari window to the desired value.
+**Press Enter on the keyboard** to resize Safari window to the desired value.
 
-Tip: Negative values are automatically converted to positive
+**Tip 1:** Negative width and height values are automatically converted to positive
 
-Tip: Leave a field blank to resize only the filled one. (E.g. To resize only the window width, leave the height field blank and press Enter)
+**Tip 2:** Leave a field blank to resize only the filled one. (Eg. To resize only the window width, leave the height field blank and press Enter)
 
 ![Banner](https://dl.dropboxusercontent.com/u/6625493/responsiveBrowser/custom-size.gif)
 
 ### Manage Custom Presets
 
-**Important Note** Custom presest are stored on browser cache, if you empty the cache you'll lost every custom preset.
+**Important Note** Custom Presets are stored into the browser cache, if you empty the cache you'll lost every custom preset. 
 
-- To add a New Custom Preset Add fill the width and height fileds with the desired values, then click on the dropdown menu and select Add New to add a new preset to your collection
+- To **Add a New Custom Preset** fill both width and height fields with your desired values, then click on the dropdown menu and select Add New. A new preset with your custom values will be added into the menu
 
 ![Banner](https://dl.dropboxusercontent.com/u/6625493/responsiveBrowser/savepreset.gif)
 
